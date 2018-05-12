@@ -1,0 +1,31 @@
+_repo: An-Account-of-the-Customs-and-Manners-of-the-Micmakis-and-Maricheets-Savage-Nations-Now-Depen__15567
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maillard, Antoine Simon
+    birthdate: 1710
+    deathdate: 1762
+    gutenberg_agent_id: '6131'
+    url: http://www.gutenberg.org/2009/agents/6131
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Simon_Maillard
+description: ''
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15567'
+  lccn: '02016466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malecite Indians'
+- !lcc 'E011'
+- !lcsh 'Micmac Indians'
+- !lcsh 'Nova Scotia -- Description and travel'
+title: An Account of the Customs and Manners of the Micmakis and Maricheets Savage
+  Nations, Now Dependent on the Government of Cape-Breton
+url: http://www.gutenberg.org/ebooks/15567
